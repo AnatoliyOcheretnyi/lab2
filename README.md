@@ -1,2 +1,2 @@
 # lab2
-![alt text](screenshot-kamshot.png)
+![alt text](screenshot-kamshot.jpg)
